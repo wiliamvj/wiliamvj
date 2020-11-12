@@ -8,7 +8,7 @@
 </br>
 
 <p style="margin-left: 20px"> 
-  - 😄 I'm passionate about technology for all this cliche;
+  - I'm passionate about technology for all this cliche;
 </p>
 <p style="margin-left: 20px"> 
   - I am fascinated by linux;
