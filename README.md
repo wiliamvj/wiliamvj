@@ -1,4 +1,4 @@
-[![Rocket Facebook](https://img.shields.io/static/v1?label=JavaScripto&message=Facebook&colorA=blue&color=black&logo=Rocket&logoColor=white)](https://www.facebook.com/groups/javascriptoe)
+[![Rocket Facebook](https://img.shields.io/static/v1?label=JavaScripto&message=Facebook&colorA=blue&color=black&logo=Rocket&logoColor=white)](https://www.facebook.com/groups/javascripto)
 <a href="https://www.linkedin.com/in/wiliamvj/"><img src="https://img.shields.io/badge/LinkedIn-informational?logo=linkedin"/></a>
 
 <img style="margin-right: 20px"  align='left' src="https://raw.githubusercontent.com/Elyabe/elyabe/master/images/rick-dancing.gif" width='200'>
