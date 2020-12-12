@@ -3,24 +3,32 @@
 
 <img style="margin-right: 20px"  align='left' src="https://raw.githubusercontent.com/Elyabe/elyabe/master/images/rick-dancing.gif" width='200'>
 
-### :stuck_out_tongue_winking_eye: This is very crazy <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### :stuck_out_tongue_winking_eye: This is very crazy <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="30">
 
 </br>
-
 <p style="margin-left: 20px"> 
-  - I'm passionate about technology for all this cliche;
+  - I am passionate about technology and everything it provides;
 </p>
 <p style="margin-left: 20px"> 
-  - I am fascinated by linux;
+  - I am fascinated by Linux, every day a different distro 🤪; 
 </p>
 <p style="margin-left: 20px"> 
   - I currently work with Javascript, nodeJS and React;
 </p>
 
-
 </br>
-
+<p>
   <a href="https://github.com/wiliamvj?tab=repositories">
-    <img width="500" height="auto" align="right" alt="Wiliam's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=wiliamvj&show_icons=true&theme=algolia&count_private=true" />
+    <img  width="500" height="auto" alt="Wiliam's github stats" 
+          src="https://github-readme-stats.vercel.app/api?username=wiliamvj&show_icons=true&theme=algolia&count_private=true" />
   </a>
+</p>
+
+<p>
+
+</p>
+
+<!-- Credit -->
+### Credit to 
+[**GIPHY**](https://giphy.com/) for GIFs<br />
+⭐️ Credit [JoykishanSharma](https://github.com/JoykishanSharma)
