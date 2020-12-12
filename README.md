@@ -3,7 +3,7 @@
 
 <img style="margin-right: 20px"  align='left' src="https://raw.githubusercontent.com/Elyabe/elyabe/master/images/rick-dancing.gif" width='200'>
 
-### :stuck_out_tongue_winking_eye: This is very crazy
+### :stuck_out_tongue_winking_eye: This is very crazy <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 </br>
 
@@ -20,7 +20,7 @@
 
 </br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=wiliamvj&layout=compact&theme=radical" />
-</a>
+  <a href="https://github.com/wiliamvj?tab=repositories">
+    <img width="500" height="auto" align="right" alt="Wiliam's github stats" 
+         src="https://github-readme-stats.vercel.app/api?username=joykishansharma&show_icons=true&theme=algolia&count_private=true" />
+  </a>
