@@ -3,8 +3,7 @@
 
 <img style="margin-right: 20px"  align='left' src="https://raw.githubusercontent.com/Elyabe/elyabe/master/images/rick-dancing.gif" width='200'>
 
-### :stuck_out_tongue_winking_eye: This is very crazy <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="30">
-
+### <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="30"> This is very crazy 
 </br>
 <p style="margin-left: 20px"> 
   - I am passionate about technology and everything it provides;
