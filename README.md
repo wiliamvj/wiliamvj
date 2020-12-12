@@ -15,7 +15,6 @@
   - I currently work with Javascript, nodeJS and React;
 </p>
 
-</br>
 <p>
   <a href="https://github.com/wiliamvj?tab=repositories">
     <img  width="500" height="auto" alt="Wiliam's github stats" 
