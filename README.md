@@ -1,7 +1,7 @@
 [![Rocket Facebook](https://img.shields.io/static/v1?label=JavaScripto&message=Facebook&colorA=blue&color=black&logo=Rocket&logoColor=white)](https://www.facebook.com/groups/javascripto)
 <a href="https://www.linkedin.com/in/wiliamvj/"><img src="https://img.shields.io/badge/LinkedIn-informational?logo=linkedin"/></a>
 
-
+<img style="margin-right: 20px" align='right' src="https://media.giphy.com/media/TucS1JF3urHJI9mlGh/giphy.gif" width='200'>
 
 ### This is very crazy <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="30">
 
@@ -21,9 +21,10 @@
           src="https://github-readme-stats.vercel.app/api?username=wiliamvj&show_icons=true&theme=algolia&count_private=true" />
   </a>
 </p>
-<img style="margin-left: 20px" align='right' src="https://media.giphy.com/media/TucS1JF3urHJI9mlGh/giphy.gif" width='200'>
 
 <!-- Credit -->
-### Credit to 
+
+### Credit to
+
 [**GIPHY**](https://giphy.com/) for GIFs<br />
 ⭐️ Credit [JoykishanSharma](https://github.com/JoykishanSharma)
