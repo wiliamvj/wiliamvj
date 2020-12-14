@@ -1,11 +1,11 @@
 [![Rocket Facebook](https://img.shields.io/static/v1?label=JavaScripto&message=Facebook&colorA=blue&color=black&logo=Rocket&logoColor=white)](https://www.facebook.com/groups/javascripto)
 <a href="https://www.linkedin.com/in/wiliamvj/"><img src="https://img.shields.io/badge/LinkedIn-informational?logo=linkedin"/></a>
 
-<img style="margin-right: 20px" align='right' src="https://media.giphy.com/media/TucS1JF3urHJI9mlGh/giphy.gif" width='200'>
+<img style="margin-right: 60px" align='right' src="https://media.giphy.com/media/TucS1JF3urHJI9mlGh/giphy.gif" width='220'>
 
 ### This is very crazy <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="30">
 
-<p style="margin-left: 20px"> 
+<p style="margin-right: 90px"> 
   - I am passionate about technology and everything it provides;
 </p>
 <p style="margin-left: 20px"> 
