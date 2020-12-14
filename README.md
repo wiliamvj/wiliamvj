@@ -21,7 +21,7 @@
           src="https://github-readme-stats.vercel.app/api?username=wiliamvj&show_icons=true&theme=algolia&count_private=true" />
   </a>
 </p>
-<img style="margin-right: 20px" align='left' src="https://media.giphy.com/media/TucS1JF3urHJI9mlGh/giphy.gif" width='200'>
+<img style="margin-left: 20px" align='right' src="https://media.giphy.com/media/TucS1JF3urHJI9mlGh/giphy.gif" width='200'>
 
 <!-- Credit -->
 ### Credit to 
