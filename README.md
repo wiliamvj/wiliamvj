@@ -1,19 +1,31 @@
-[![Rocket Facebook](https://img.shields.io/static/v1?label=JavaScripto&message=Facebook&colorA=blue&color=black&logo=Rocket&logoColor=white)](https://www.facebook.com/groups/javascripto) | 
+[![Rocket Facebook](https://img.shields.io/static/v1?label=JavaScripto&message=Facebook&colorA=blue&color=white&logo=Rocket&logoColor=white)](https://www.facebook.com/groups/javascripto)
 <a href="https://www.linkedin.com/in/wiliamvj/"><img src="https://img.shields.io/badge/LinkedIn-informational?logo=linkedin"/></a>
+<a href="https://discordapp.com/users/Wiliam#8625"><img src="https://img.shields.io/badge/Discord-informational?logo=discord&color=purple&logoColor=white"/></a>
 
 <img style="margin-right: 160px" align='right' src="https://media.giphy.com/media/TucS1JF3urHJI9mlGh/giphy.gif" width='220'>
-
-### This is very crazy <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="30">
 
 <p style="margin-right: 90px"> 
   - I am passionate about technology and everything it provides;
 </p>
 <p style="margin-left: 20px"> 
-  - I am fascinated by Linux, every day a different distro 🤪; 
+  - I am fascinated by Linux, every day a different distro; 
 </p>
 <p style="margin-left: 20px"> 
-  - I currently work with Javascript, nodeJS and React;
+  - I currently work with Javascript, NodeJS and NestJS;
 </p>
+
+**Languages and Tools:**  
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="35" src="https://github.com/wiliamvj/wiliamvj/blob/main/typescript_original_logo_icon_146317.png?raw=true"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="35" src="https://github.com/wiliamvj/wiliamvj/blob/main/nestjs-logo-09342F76C0-seeklogo.com.png?raw=true"></code>
+<code><img height="35" src="https://github.com/wiliamvj/wiliamvj/blob/main/linux-22615.png?raw=true"></code>
+<code><img height="35" src="https://github.com/wiliamvj/wiliamvj/blob/main/jest-logo-png-transparent.png?raw=true"></code>
+<code><img height="35" src="https://github.com/wiliamvj/wiliamvj/blob/main/prisma.png?raw=true"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/wiliamvj/wiliamvj/main/Moby-logo.webp"></code>
+<code><img height="35" src="https://github.com/wiliamvj/wiliamvj/blob/main/rails.png?raw=true"></code>
+<code><img height="35" src="https://github.com/wiliamvj/wiliamvj/blob/main/Ruby_logo.png?raw=true"></code>
 
 <p>
   <a href="https://github.com/wiliamvj?tab=repositories">
