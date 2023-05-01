@@ -30,7 +30,7 @@
 <p>
   <a href="https://github.com/wiliamvj?tab=repositories">
     <img  width="500" height="auto" alt="Wiliam's github stats" 
-          src="https://github-readme-stats.vercel.app/api?username=wiliamvj&show_icons=true&theme=algolia&count_private=true" />
+          src="https://github-readme-stats.vercel.app/api?username=wiliamvj&show_icons=true&theme=dracula&count_private=true" />
   </a>
 </p>
 
