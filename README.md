@@ -22,7 +22,6 @@
 <code><img height="35" src="https://github.com/wiliamvj/wiliamvj/blob/main/gopher-logo.png"></code>
 <code><img height="35" src="https://github.com/wiliamvj/wiliamvj/blob/main/nestjs-logo-09342F76C0-seeklogo.com.png?raw=true"></code>
 <code><img height="35" src="https://github.com/wiliamvj/wiliamvj/blob/main/linux-22615.png?raw=true"></code>
-<code><img height="35" src="https://github.com/wiliamvj/wiliamvj/blob/main/jest-logo-png-transparent.png?raw=true"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/wiliamvj/wiliamvj/main/Moby-logo.webp"></code>
 <code><img height="35" src="https://github.com/wiliamvj/wiliamvj/blob/main/rails.png?raw=true"></code>
 <code><img height="35" src="https://github.com/wiliamvj/wiliamvj/blob/main/Ruby_logo.png?raw=true"></code>
