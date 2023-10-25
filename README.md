@@ -1,4 +1,3 @@
-[![Rocket Facebook](https://img.shields.io/static/v1?label=JavaScripto&message=Facebook&colorA=blue&color=white&logo=Rocket&logoColor=white)](https://www.facebook.com/groups/javascripto)
 <a href="https://www.linkedin.com/in/wiliamvj/"><img src="https://img.shields.io/badge/LinkedIn-informational?logo=linkedin"/></a>
 <a href="https://discordapp.com/users/Wiliam#8625"><img src="https://img.shields.io/badge/Discord-informational?logo=discord&color=purple&logoColor=white"/></a>
 
