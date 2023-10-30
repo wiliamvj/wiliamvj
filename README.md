@@ -3,12 +3,6 @@
 
 <img style="margin-right: 160px" align='right' src="https://media.giphy.com/media/TucS1JF3urHJI9mlGh/giphy.gif" width='220'>
 
-<p style="margin-right: 90px"> 
-  - I am passionate about technology and everything it provides;
-</p>
-<p style="margin-left: 20px"> 
-  - I am fascinated by Linux, every day a different distro; 
-</p>
 <p style="margin-left: 20px"> 
   - I currently work with Javascript, NodeJS, NestJS and Golang;
 </p>
