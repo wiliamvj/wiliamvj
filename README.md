@@ -1,12 +1,6 @@
 <a href="https://www.linkedin.com/in/wiliamvj/"><img src="https://img.shields.io/badge/LinkedIn-informational?logo=linkedin"/></a>
 <a href="https://discordapp.com/users/Wiliam#8625"><img src="https://img.shields.io/badge/Discord-informational?logo=discord&color=purple&logoColor=white"/></a>
 
-<img style="margin-right: 160px" align='right' src="https://media.giphy.com/media/TucS1JF3urHJI9mlGh/giphy.gif" width='220'>
-
-<p style="margin-left: 20px"> 
-  - I currently work with Javascript, NodeJS, NestJS and Golang;
-</p>
-
 **Languages and Tools:**  
 
 <code><img height="35" src="https://github.com/wiliamvj/wiliamvj/blob/main/gopher-logo.png"></code>
