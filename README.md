@@ -1,7 +1,7 @@
 <a href="https://www.linkedin.com/in/wiliamvj/"><img src="https://img.shields.io/badge/LinkedIn-informational?logo=linkedin"/></a>
 <a href="https://discordapp.com/users/Wiliam#8625"><img src="https://img.shields.io/badge/Discord-informational?logo=discord&color=purple&logoColor=white"/></a>
 
-**Languages and Tools:**  <img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="30">
+**Languages and Tools:**  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45">
 
 <code><img height="35" src="https://github.com/wiliamvj/wiliamvj/blob/main/gopher-logo.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/wiliamvj/wiliamvj/main/Moby-logo.webp"></code>
