@@ -1,7 +1,7 @@
 <a href="https://www.linkedin.com/in/wiliamvj/"><img src="https://img.shields.io/badge/LinkedIn-informational?logo=linkedin"/></a>
 <a href="https://discordapp.com/users/Wiliam#8625"><img src="https://img.shields.io/badge/Discord-informational?logo=discord&color=purple&logoColor=white"/></a>
 
-**Languages and Tools:**  
+**Languages and Tools:**  <img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="30">
 
 <code><img height="35" src="https://github.com/wiliamvj/wiliamvj/blob/main/gopher-logo.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/wiliamvj/wiliamvj/main/Moby-logo.webp"></code>
@@ -17,13 +17,11 @@
 <p>
   <a href="https://github.com/wiliamvj?tab=repositories">
     <img  width="500" height="auto" alt="Wiliam's github stats" 
-          src="https://github-readme-stats.vercel.app/api?username=wiliamvj&show_icons=true&theme=dracula&count_private=true" />
+      src="https://github-readme-stats.vercel.app/api?username=wiliamvj&show_icons=true&theme=dracula&count_private=true" />
   </a>
 </p>
 
 <!-- Credit -->
-
 ### Credit to
-
 [**GIPHY**](https://giphy.com/) for GIFs<br />
 ⭐️ Credit [JoykishanSharma](https://github.com/JoykishanSharma)
