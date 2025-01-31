@@ -12,6 +12,7 @@
 <code><img height="35" src="https://github.com/wiliamvj/wiliamvj/blob/main/linux-22615.png?raw=true"></code>
 <code><img height="35" src="https://github.com/wiliamvj/wiliamvj/blob/main/rails.png?raw=true"></code>
 <code><img height="35" src="https://github.com/wiliamvj/wiliamvj/blob/main/Ruby_logo.png?raw=true"></code>
+<code><img height="35" src="[https://github.com/wiliamvj/wiliamvj/blob/main/Ruby_logo.png?raw=true](https://github.com/wiliamvj/wiliamvj/blob/main/React-icon.svg.png?raw=true)"></code>
 
 <p>
   <a href="https://github.com/wiliamvj?tab=repositories">
