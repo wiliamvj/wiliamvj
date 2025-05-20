@@ -1,13 +1,15 @@
-name: GitHub-Profile-3D
+name: GitHub-Profile-Automations
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
+  schedule:
+    # Execute ambos diariamente às 18:00 UTC (03:00 JST)
     - cron: "0 18 * * *"
   workflow_dispatch:
+
 jobs:
-  build:
+  generate-github-profile-3d:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d
+    name: Generate GitHub Profile 3D
     steps:
       - uses: actions/checkout@v2
       - uses: yoshi389111/github-profile-3d-contrib@0.6.0
@@ -21,3 +23,20 @@ jobs:
           git add -A .
           git commit -m "generated"
           git push
+
+  generate-github-profile-summary-cards:
+    runs-on: ubuntu-latest
+    name: Generate GitHub Profile Summary Cards
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 8
+          EXCLUDE: ""
+          AUTO_PUSH: true
