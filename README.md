@@ -11,5 +11,5 @@
 ##
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wiliamvj&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=wiliamvj&row=1&column=6&theme=aura_dark&margin-w=15&margin-h=15"/>
 </div>
