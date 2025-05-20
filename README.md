@@ -1,6 +1,6 @@
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="wiliamvj status 3d" width="1000" />
 
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wiliamvj&theme=aura_dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wiliamvj&theme=aura_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wiliamvj&theme=gruvbox&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wiliamvj&theme=gruvbox)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
  
 <div align="center">
@@ -11,5 +11,5 @@
 ##
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wiliamvj&row=1&column=6&theme=aura_dark&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=wiliamvj&row=1&column=6&theme=juicyfresh&margin-w=15&margin-h=15"/>
 </div>
