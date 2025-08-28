@@ -7,9 +7,3 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,docker,javascript,typescript,react,nodejs,nest,materialui,linux,mongodb,postgres,mysql,ruby,rails,elasticsearch" />
 </div>
-
-##
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wiliamvj&row=1&column=6&theme=juicyfresh&margin-w=15&margin-h=15"/>
-</div>
